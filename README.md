@@ -34,7 +34,6 @@
   <img src="https://raw.githubusercontent.com/Dwashi2/SlotMachineUI/main/1.png" width="248">
   <img src="https://raw.githubusercontent.com/Dwashi2/SlotMachineUI/main/2.png" width="248">
   <img src="https://raw.githubusercontent.com/Dwashi2/SlotMachineUI/main/3.png" width="248">
-h="248">
 </p>
  
  
